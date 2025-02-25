@@ -21,4 +21,4 @@ Dieses Python-Projekt ermöglicht es, aus einem Video ohne Untertitel ein Video 
 
    ```bash
    git clone https://github.com/henri-7788/SimplySubtitles.git
-   cd video-subtitle-generator
+   cd SimplySubtitles
